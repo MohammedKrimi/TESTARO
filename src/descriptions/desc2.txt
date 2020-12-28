@@ -1,0 +1,13 @@
+# Ceci est un exemple de suite
+< TOTO \
+TUTU
+p Hello
+< TATA
+$ cat > ../fich
+$ cd ../
+
+> TOTO TUTU
+> TATA
+p World 
+$ cat fich
+p !
